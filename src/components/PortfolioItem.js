@@ -9,7 +9,7 @@ class PortfolioItem extends React.Component{
     render(){
         return(<div><div className="columns portfolio-item">
         <div className="item-wrap">
-          <a href={"#modal-" + this.props.id} title>
+          <a href={"#modal-" + this.props.id} >
             <img alt="" src={this.props.image} />
             <div className="overlay">
               <div className="portfolio-item-meta">
