@@ -23,9 +23,7 @@ class About extends React.Component {
                <div className="columns contact-details">
 
                   <h2>contact | social</h2>
-                  email <a href="mailto:transgenderkafka@gmail.com">transgenderkafka@gmail.com</a> <br></br>
-                  instagram <a href="https://www.instagram.com/trans.kafka/">@trans.kafka</a> <br></br>
-                  twitter <a href="https://twitter.com/trans__kafka">@trans__kafka</a>
+                  email <a href="mailto:frankie.pettigrew@gmail.com">frankie.pettigrew@gmail.com</a> <br></br>
 
                </div>
 
