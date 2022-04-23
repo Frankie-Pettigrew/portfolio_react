@@ -18,7 +18,6 @@ class Works extends React.Component{
           <PortfolioItem id={4} title="The Cube" role="Audio Design and Arduino" description="Procedurally generated music that evolves based on the gyroscope position of the cell phone inside of it" image="images/portfolio/the_cube.jpg" modal_image="images/portfolio/the_cube.jpg"/>
           <PortfolioItem id={5} title="I Dream of @Dril" role="Game/Audio Design" description="Intermediate Game Development final project. A viginette-style game about twitter clout and absurdity" image="images/portfolio/i_dream_of_dril.png" modal_image="images/portfolio/modals/m-i_dream_of_dril.png" />
           <PortfolioItem id={6} title="Simian Sphere" role="Game/Audio Design" description="Hologram Super Monkey Ball clone, no headgear required! Developed during 2017 Looking Glass Factory internship" image="images/portfolio/simianSphere.gif" modal_image="images/portfolio/modals/m-simianSphere.gif"/>
-          <PortfolioItem id={7} title="Instagram Filters" role="Design/Programming" description="Started making Instagram AR filters as a way to practice AR development. Follow @trans.kafka on instagram for access" image="images/portfolio/kirbyFilter.JPG" modal_image="images/portfolio/modals/m-filter.JPG"/>
       </div> {/* portfolio-wrapper end */}
     </div> {/* twelve columns end */}
    </div>
